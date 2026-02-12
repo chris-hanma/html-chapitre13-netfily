@@ -1,0 +1,6 @@
+@mixin xs{
+  @media only screen and (max-width:840px){
+    @content
+  }
+
+  }

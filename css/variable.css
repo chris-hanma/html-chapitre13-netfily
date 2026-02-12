@@ -1,0 +1,12 @@
+:root {
+  font-family: "Lato", sans-serif;
+  --light:#00c3ff;
+  --primary:#1071e7;
+  --dark:#2980b9;
+  --text:#333;
+  --background:#fafafa;
+  --hint:#999;
+  --border:#ddd;
+}
+
+/*# sourceMappingURL=variable.css.map */
